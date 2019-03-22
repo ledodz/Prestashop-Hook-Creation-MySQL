@@ -1,0 +1,2 @@
+INSERT INTO `ps_hook` (`id_hook`, `name`, `title`, `description`, `position`, `live_edit`)
+VALUES (NULL, 'HookName', 'Hook Title', 'Hook Description', '1', '1');
